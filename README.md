@@ -7,9 +7,14 @@ The RetroComp library is written by British secondary schoolers in our spare tim
 ## Acknowledgements
 
 Basis for TicTacToe -> [`@ZeeScratcher`](https://replit.com/@ZeeScratcher)
-Basis for SpiralSprint -> [`cosmic from GeeksForGeeks.org`](https://www.geeksforgeeks.org/spiral-sprint-game-in-python-using-pygame/)
-Basis for FlappyBird [`Code With Harry`](https://www.codewithharry.com/videos/python-tutorials-for-absolute-beginners-122/)
 
+Basis for SpiralSprint -> [`cosmic from GeeksForGeeks.org`](https://www.geeksforgeeks.org/spiral-sprint-game-in-python-using-pygame/)
+
+Basis for FlappyBird -> [`Code With Harry`](https://www.codewithharry.com/videos/python-tutorials-for-absolute-beginners-122/)
+
+Basis for Pong -> [`teja00219 from GeeksForGeeks.org`](https://www.geeksforgeeks.org/create-a-pong-game-in-python-pygame/)
+
+Basis for Snake -> [`amnindersingh1414 from GeeksForGeeks.org`](https://www.geeksforgeeks.org/snake-game-in-python-using-pygame-module/)
 
 ## Releases
 For the downloads please go to the [*`releases`*](https://github.com/JTech-Labs/RetroComp/releases) section of the repo and just run the executable for your respective OS (currently only Windows).
