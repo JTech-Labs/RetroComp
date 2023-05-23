@@ -6,3 +6,6 @@ The RetroComp library is written by British secondary schoolers in our spare tim
 
 ## Releases
 For the downloads please go to the [*`releases`*](https://github.com/JTech-Labs/RetroComp/releases) section of the repo and just run the executable for your respective OS (currently only Windows).
+
+## Playing
+For most of these you will have to run the `main.py` file in the terminal from the same directory so the assets can load, otherwise the files will not load.
