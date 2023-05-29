@@ -13,3 +13,5 @@ Basis for Snake -> [`GeeksForGeeks.org`](https://www.geeksforgeeks.org/snake-gam
 Basis for BrickBreaker -> [`GeeksForGeeks.org`](https://www.geeksforgeeks.org/brick-breaker-game-in-python-using-pygame/)
 
 Basis for Tetris -> [`github @EpocDotFr`](https://github.com/EpocDotFr/tetris/tree/master)
+
+Basis for Asteroids -> [`github @TheBeachLab`](https://github.com/TheBeachLab/asteroids)
