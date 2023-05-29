@@ -11,3 +11,5 @@ Basis for Pong -> [`GeeksForGeeks.org`](https://www.geeksforgeeks.org/create-a-p
 Basis for Snake -> [`GeeksForGeeks.org`](https://www.geeksforgeeks.org/snake-game-in-python-using-pygame-module/)
 
 Basis for BrickBreaker -> [`GeeksForGeeks.org`](https://www.geeksforgeeks.org/brick-breaker-game-in-python-using-pygame/)
+
+Basis for Tetris -> [`github @EpocDotFr`](https://github.com/EpocDotFr/tetris/tree/master)
