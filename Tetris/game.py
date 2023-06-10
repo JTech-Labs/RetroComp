@@ -65,7 +65,7 @@ class Game:
 
             self._load_random_music()
 
-            self._toggle_pause(True)
+            self._toggle_pause(False)
         else:
             self._start_new_game()
 
